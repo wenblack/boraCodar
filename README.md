@@ -41,10 +41,10 @@
     <tbody>
         <tr>
             <td>01</td>
-            <td><a href="01">Music Player </a></td>
+            <td><a href="https://github.com/wenblack/bora-codar-1">Music Player </a></td>
             <td>11/01/23</td>
             <td align="center">
-            <a href="01"><img width="300px" src="01/.github/preview.jpg" /></a></td>
+            <a href="https://github.com/wenblack/bora-codar-1"><img width="300px" src="01/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>02</td>
