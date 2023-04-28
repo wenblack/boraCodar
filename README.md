@@ -60,9 +60,9 @@
         </tr>
         <tr>
             <td>04</td>
-            <td><a href="04">Chat</a></td>
+            <td><a href="https://github.com/wenblack/bora-codar-04">Chat</a></td>
             <td>01/02/23</td>
-            <td align="center"><a href="04"><img width="300px" src="04/.github/preview.jpg" /></a></td>
+            <td align="center"><a href="https://bora-codar-04.vercel.app/"><img width="300px" src="04/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>05</td>
