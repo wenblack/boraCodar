@@ -50,7 +50,7 @@
             <td>02</td>
             <td><a href="https://github.com/wenblack/bora-codar-2">Product Card</a></td>
             <td>18/01/23</td>
-            <td align="center"><a href="https://bora-codar-2.vercel.app/"><img width="300px" src="02/.github/preview.jpg" /></a></td>
+            <td align="center"><a href="https://bora-codar-2.vercel.app/"><img width="300px" src="01/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>03</td>
@@ -66,9 +66,9 @@
         </tr>
         <tr>
             <td>05</td>
-            <td><a href="05">Calculadora</a></td>
+            <td><a href="https://github.com/wenblack/bora-codar-5">Calculadora</a></td>
             <td>08/02/23</td>
-            <td align="center"><a href="05"><img width="300px" src="05/.github/preview.jpg" /></a></td>
+            <td align="center"><a href="https://bora-codar-5.vercel.app/"><img width="300px" src="05/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>06</td>
