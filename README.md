@@ -50,7 +50,7 @@
             <td>02</td>
             <td><a href="02">Product Card</a></td>
             <td>18/01/23</td>
-            <td align="center"><a href="02"><img width="300px" src="02/.github/preview.jpg" /></a></td>
+            <td align="center"><a href="02"><img width="300px" src="https://bora-codar-2.vercel.app/" /></a></td>
         </tr>
         <tr>
             <td>03</td>
