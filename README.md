@@ -54,9 +54,9 @@
         </tr>
         <tr>
             <td>03</td>
-            <td><a href="03">Botões e Cursores</a></td>
+            <td><a href="https://github.com/wenblack/bora-codar-3">Botões e Cursores</a></td>
             <td>25/01/23</td>
-            <td align="center"><a href="03"><img width="300px" src="03/.github/preview.jpg" /></a></td>
+            <td align="center"><a href="https://bora-codar-3.vercel.app/"><img width="300px" src="03/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>04</td>
